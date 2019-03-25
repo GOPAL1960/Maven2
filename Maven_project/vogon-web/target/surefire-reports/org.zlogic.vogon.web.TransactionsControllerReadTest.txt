@@ -1,0 +1,84 @@
+-------------------------------------------------------------------------------
+Test set: org.zlogic.vogon.web.TransactionsControllerReadTest
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 20, Skipped: 0, Time elapsed: 92.536 s <<< FAILURE! - in org.zlogic.vogon.web.TransactionsControllerReadTest
+testGetSpecificNonExistingTransaction(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testAllPages(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetNonExistingPage(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsNonExistingDescription(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetSpecificAnotherUserTransaction(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsDateDesc(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsNonExistingTag(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsBadToken(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsExistingTag(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsExistingDescription(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsNonExistingDate(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsDescriptionDesc(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsDateAsc(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetSpecificTransaction(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionBadToken(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionNoToken(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsDefaultSort(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsDescriptionAsc(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsNoToken(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testGetTransactionsExistingDate(org.zlogic.vogon.web.TransactionsControllerReadTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+

@@ -1,0 +1,15 @@
+org\zlogic\vogon\web\AuthenticationTest.class
+org\zlogic\vogon\web\CurrenciesControllerTest.class
+org\zlogic\vogon\web\RegistrationControllerTest.class
+org\zlogic\vogon\web\DataControllerTest.class
+org\zlogic\vogon\web\TransactionsControllerWriteTest.class
+org\zlogic\vogon\web\TransactionsControllerReadTest.class
+org\zlogic\vogon\web\DataControllerTest$1.class
+org\zlogic\vogon\web\DatabaseConfiguration.class
+org\zlogic\vogon\web\DataControllerTest$3.class
+org\zlogic\vogon\web\UsersControllerTest.class
+org\zlogic\vogon\web\AccountsControllerTest.class
+org\zlogic\vogon\web\Prepopupate.class
+org\zlogic\vogon\web\AnalyticsControllerTest.class
+org\zlogic\vogon\web\RestTestClient.class
+org\zlogic\vogon\web\DataControllerTest$2.class

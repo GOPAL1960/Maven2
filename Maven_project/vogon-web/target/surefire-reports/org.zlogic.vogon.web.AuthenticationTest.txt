@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: org.zlogic.vogon.web.AuthenticationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 18.432 s <<< FAILURE! - in org.zlogic.vogon.web.AuthenticationTest
+testExpiredTokens(org.zlogic.vogon.web.AuthenticationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testAuthenticationIncorrectPassword(org.zlogic.vogon.web.AuthenticationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testAuthenticationInvalidTokenPassword(org.zlogic.vogon.web.AuthenticationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testAuthentication(org.zlogic.vogon.web.AuthenticationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+
+testAuthenticationLogout(org.zlogic.vogon.web.AuthenticationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.boot.context.embedded.tomcat.ConnectorStartFailedException: Connector configured to listen on port 8080 failed to start
+

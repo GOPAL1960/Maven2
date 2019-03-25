@@ -1,0 +1,4 @@
+org\zlogic\vogon\data\TestUtils.class
+org\zlogic\vogon\data\ModelBasicOperationsTest.class
+org\zlogic\vogon\data\ModelConstraintsTest.class
+org\zlogic\vogon\data\MaintenanceTest.class
